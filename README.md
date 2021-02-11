@@ -1,2 +1,2 @@
-# weather_to_speech
-rust project weather to speech
+# Paradny projekt
+Barz fajny projekt, ktory povie, ake je pocasie v lubovolnej tramtarii.
